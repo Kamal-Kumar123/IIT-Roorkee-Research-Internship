@@ -1,2 +1,2 @@
 # IIT-Roorkee-Research-Internship
-Here, I upload some codes that I build during research internship at IIT Roorkee.
+Here, I have uploaded some python codes that I build during research internship at IIT Roorkee.
